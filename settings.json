@@ -1,0 +1,22 @@
+{
+    //"files.autoSave":"onFocusChange",
+    "go.buildOnSave": "off",
+    "go.lintOnSave": "off",
+    "go.vetOnSave": "off",
+    // "go.buildOnSave": "workspace",
+    // "go.lintOnSave": "package",
+    // "go.vetOnSave": "package",
+    "go.buildTags": "",
+    "go.buildFlags": [],
+    "go.lintFlags": [],
+    "go.vetFlags": [],
+    "go.coverOnSave": false,
+    "go.useCodeSnippetsOnFunctionSuggest": false,
+    "go.formatTool": "goreturns",
+    "go.goroot": "C:/Go",
+    "go.gopath": "E:/GoPath",
+    "go.gocodeAutoBuild": false,
+    "window.zoomLevel": -1,
+    "go.docsTool": "gogetdoc", //wweir给的导入包优化
+    "editor.renderWhitespace": "all"
+}
